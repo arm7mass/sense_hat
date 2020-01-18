@@ -1,2 +1,2 @@
 # sense_hat
-Raspberry pi sensor
+## Raspberry pi sensor
